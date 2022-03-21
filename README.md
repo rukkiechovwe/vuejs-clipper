@@ -1,24 +1,15 @@
-# image-upload
 
-## Project setup
-```
-yarn install
-```
+# VueJs clipper example
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Use vueJs clipper in your vue project to crop your images
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Getting Started
+- clone this repository
+- run: `npm install vuejs-clipper vue-rx rxjs --save` or run: `npm install` to install dependencies
+- run: `npm start`
+- visit (https://github.com/timtnleeProject/vuejs-clipper) for more info
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tech Stack
+
+**Client:** VueJS, vueJS-clipper
